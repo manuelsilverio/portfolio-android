@@ -11,7 +11,7 @@ This project is a Sample of professional work of Android projects. Some apps are
 *	Customed maps integration with MapBox
 •	Implementation of Jetpack Compose
 
-![Helsinki_transport_screenshot](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/helsinki-transport-ticket-shop.png) | ![Helsinki_transport_screenshot]([https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/helsinki-transport-ticket-shop.png](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/helsinki-transport-ticket-selection.png)) | ![](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/helsinki-transport-payment.png)
+![Helsinki_transport_screenshot](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/helsinki-transport-ticket-shop.png) | ![Helsinki_transport_screenshot](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/helsinki-transport-ticket-selection.png) | ![](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/helsinki-transport-payment.png)
 
 ## Driving test Training app: 2020 - 2022 (Discontinued)
 
