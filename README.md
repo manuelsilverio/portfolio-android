@@ -65,10 +65,10 @@ Android App which provide train journey data for Belgium
 
 #### Easy Feeds
 
-![](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/Easy%20Feeds%20Screenshot%2001.png) |![](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/Easy%20Feeds%20Screenshot%2002.png)| ![](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/Easy%20Feeds%20Screenshot%2003.png)
+![1](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/Easy%20Feeds%20Screenshot%2001.png) |![2](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/Easy%20Feeds%20Screenshot%2002.png)| ![3](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/Easy%20Feeds%20Screenshot%2003.png)
 
 #### Easy Weather
 
-![](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/Easy%20Weather%20Screenshot%2001.png) | ![](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/Easy%20Weather%20Screenshot%2002.png)
+![1_](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/Easy%20Weather%20Screenshot%2001.png) | ![2_](https://github.com/manuelsilverio/portfolio-android/blob/main/screenshots/Easy%20Weather%20Screenshot%2002.png)
 
 
